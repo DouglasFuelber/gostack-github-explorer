@@ -1,2 +1,2 @@
-# gostack-github-explorer
-GoStack 11 - Github Explorer
+# gostack-github-explorer-web
+GoStack 11 - Github Explorer Web
