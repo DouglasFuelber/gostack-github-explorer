@@ -68,6 +68,7 @@ export const Repositories = styled.div`
     align-items: center;
     background: #fff;
     border-radius: 5px;
+    color: #3d3d4d;
     display: flex;
     padding: 24px;
     text-decoration: none;
