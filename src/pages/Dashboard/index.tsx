@@ -30,6 +30,14 @@ const Dashboard: React.FC = () => {
       return;
     }
 
+    const existingRepo = repositories.find(
+      (repository) => repository.full_name === newRepo,
+    );
+    if (existingRepo) {
+      setInputError('Este repositório já existe na listagem');
+      return;
+    }
+
     try {
       const response = await api.get<Repository>(`/repos/${newRepo}`);
 
