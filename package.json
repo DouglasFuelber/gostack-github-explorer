@@ -1,6 +1,10 @@
 {
   "name": "gostack-github-explorer-web",
-  "version": "0.1.0",
+  "decription": "A Github repositories explorer",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Douglas Fuelber",
+  "repository": "https://github.com/DouglasFuelber/gostack-github-explorer-web",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
