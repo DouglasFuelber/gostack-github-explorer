@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">A Github repositories explorer</h3>
+<h3 align="center">Um explorador de repositórios do Github</h3>
 
 <p align="center">
   <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/DouglasFuelber/gostack-github-explorer-web?style=flat-square">
